@@ -1,0 +1,100 @@
+{
+    "players": [
+        {
+            "id": 0,
+            "name": "Player 1",
+            "technology": "0",
+            "clicked": false
+        },
+        {
+            "id": 1,
+            "name": "Player 2",
+            "technology": "0",
+            "clicked": false
+        },
+        {
+            "id": 2,
+            "name": "Player 3",
+            "technology": "0",
+            "clicked": false
+        },
+        {
+            "id": 3,
+            "name": "Player 4",
+            "technology": "0",
+            "clicked": false
+        },
+        {
+            "id": 4,
+            "name": "Player 5",
+            "technology": "1",
+            "clicked": false
+        },
+        {
+            "id": 5,
+            "name": "Player 6",
+            "technology": "1",
+            "clicked": false
+        },
+        {
+            "id": 6,
+            "name": "Player 7",
+            "technology": "1",
+            "clicked": false
+        },
+        {
+            "id": 7,
+            "name": "Player 8",
+            "technology": "1",
+            "clicked": false
+        },
+        {
+            "id": 8,
+            "name": "Player 9",
+            "technology": "2",
+            "clicked": false
+        },
+        {
+            "id": 9,
+            "name": "Player 10",
+            "technology": "2",
+            "clicked": false
+        },
+        {
+            "id": 10,
+            "name": "Player 11",
+            "technology": "2",
+            "clicked": false
+        },
+        {
+            "id": 11,
+            "name": "Player 12",
+            "technology": "2",
+            "clicked": false
+        },
+        {
+            "id": 12,
+            "name": "Player 13",
+            "technology": "3",
+            "clicked": false
+        },
+        {
+            "id": 13,
+            "name": "Player 14",
+            "technology": "3",
+            "clicked": false
+        },
+        {
+            "id": 14,
+            "name": "Player 15",
+            "technology": "3",
+            "clicked": false
+        },
+        {
+            "id": 15,
+            "name": "Player 16",
+            "technology": "3",
+            "clicked": false
+        }
+    ]
+}

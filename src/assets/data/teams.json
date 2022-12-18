@@ -1,0 +1,76 @@
+{
+    "clubs": [
+        {
+            "id": 1,
+            "name": "Chelsea",
+            "imgSource": "1.png",
+            "color": ""
+        },
+        {
+            "id": 2,
+            "name": "Liverpool",
+            "imgSource": "2.png",
+            "color": ""
+        },
+        {
+            "id": 3,
+            "name": "Manchester City",
+            "imgSource": "3.png",
+            "color": ""
+        },
+        {
+            "id": 4,
+            "name": "Manchester United",
+            "imgSource": "4.png",
+            "color": ""
+        },
+        {
+            "id": 5,
+            "name": "Juventus F.C.",
+            "imgSource": "5.png",
+            "color": ""
+        },
+        {
+            "id": 6,
+            "name": "Tottenham Hotspur F.C.",
+            "imgSource": "6.png",
+            "color": ""
+        },
+        {
+            "id": 7,
+            "name": "FC Bayern Munich",
+            "imgSource": "7.png",
+            "color": ""
+        },
+        {
+            "id": 8,
+            "name": "Borussia Dortmund",
+            "imgSource": "8.png",
+            "color": ""
+        },
+        {
+            "id": 9,
+            "name": "Paris Saint-Germain F.C.",
+            "imgSource": "9.png",
+            "color": ""
+        },
+        {
+            "id": 10,
+            "name": "Atlético Madrid",
+            "imgSource": "10.png",
+            "color": ""
+        },
+        {
+            "id": 11,
+            "name": "FC Barcelona",
+            "imgSource": "11.png",
+            "color": ""
+        },
+        {
+            "id": 12,
+            "name": "Real Madrid CF",
+            "imgSource": "12.png",
+            "color": ""
+        }
+    ]
+}
